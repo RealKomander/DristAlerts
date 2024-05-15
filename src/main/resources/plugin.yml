@@ -1,0 +1,4 @@
+name: DristAlerts
+version: '${project.version}'
+main: dristmine.dristalerts.DristAlerts
+api-version: '1.20'

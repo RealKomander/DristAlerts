@@ -1,0 +1,10 @@
+# Default configuration for DristAlerts plugin
+
+# Sound to play when sending an alert
+alert-sound: ENTITY_EXPERIENCE_ORB_PICKUP
+
+# You can add exception text messages here if necessary
+# For example:
+# exception-messages:
+#   no-permission: "&cYou don't have permission to use this command."
+#   invalid-usage: "&cUsage: /alert <message> <permission>"

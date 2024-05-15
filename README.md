@@ -20,5 +20,7 @@ Maven dependency setup:
 Currently supports 1.20.4 only.
 
 Usage:
-DristAlerts.sendGlobalMessage(String message, String permission, Sound sound) - sends a global message to every player with the specified permission. Can also play a sound.
-DristAlerts.sendPrivateMessage(String message, String permission, Sound sound, Player player) - sends a local message to every player with the specified permission. Can also play a sound.
+
+sendGlobalMessage(message, permission, sound) - sends a global message to every player with the specified permission. Can also play a sound.
+
+sendPrivateMessage(message, permission, sound, player) - sends a local message to every player with the specified permission. Can also play a sound.
